@@ -6,7 +6,7 @@
 [另一个markdown文本链接](https://github.com/YARNELLL/homework/blob/master/homework.md)
 ***
 网络不好图片可能展示不出来  
-![a 图片](./picture/1.png)
+![1 图片](./1.png)
 
 ![RUNOOB](http://static.runoob.com/images/runoob-logo.png)
 ***
