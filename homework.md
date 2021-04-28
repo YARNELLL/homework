@@ -4,7 +4,8 @@
 [超星](http://i.mooc.chaoxing.com/)
 
 [另一个markdown文本链接](https://github.com/YARNELLL/homework/blob/main/README.md)
-
+***
+网络不好图片可能展示不出来  
 ![a 图片](./picture/1.png)
 
 ![RUNOOB](http://static.runoob.com/images/runoob-logo.png)
